@@ -1,8 +1,11 @@
 # abap_template
-ABAP Repo Template
+A template for ABAP projects.
 
-## abapLint
+## Features
+1 abapLint
+
 abapLint is configured to follow [Clean ABAP Style](https://github.com/SAP/styleguides).
 
-## Action workflow
+2 Action workflow
+
 Action workflow will execute abapLint when there is a PR on Master branch.
