@@ -2,6 +2,7 @@ name: abapLint
 
 on: 
   pull_request:
+    paths: '/src/**.abap'
     branches:
       - master
 
