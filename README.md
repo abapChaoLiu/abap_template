@@ -1,3 +1,13 @@
 ![Build Status](https://github.com/abapChaoLiu/abap_template/workflows/abapLint/badge.svg)
 # abap_template
-abap repo template
+A template for ABAP projects.
+
+## Features
+
+* abapLint
+
+  abapLint is configured to follow [Clean ABAP Style](https://github.com/SAP/styleguides).
+
+* Action workflow
+
+  Action workflow will execute abapLint when there is a PR on Master branch.
